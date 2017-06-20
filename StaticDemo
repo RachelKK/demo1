@@ -7,4 +7,9 @@ public class Student{
   public int stuId;//学生学号
   public String stuName;//学生姓名
   public  static String universityName;//学校名称
+  
+  static {
+    System.out.println("static代码块，在类加载的时候执行");
+  
+  }
 }
