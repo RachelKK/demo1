@@ -1,4 +1,8 @@
 # demo1
+/**
+
+  static 关键字分析
+*/
 public class Student{
   public int stuId;//学生学号
   public String stuNamr;//学生姓名
