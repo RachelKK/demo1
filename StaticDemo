@@ -12,4 +12,9 @@ public class Student{
     System.out.println("static代码块，在类加载的时候执行");
   
   }
+  
+  static {
+  
+    System.out.println("qianghj修改的代码，static代码块，在类加载的时候执行");
+  }
 }
