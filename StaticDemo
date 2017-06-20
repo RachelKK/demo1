@@ -1,0 +1,6 @@
+# demo1
+public class Student{
+  public int stuId;//学生学号
+  public String stuNamr;//学生姓名
+  public  static String universityName;//学校名称
+}
